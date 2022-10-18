@@ -1,0 +1,6 @@
+Vai uma dica ai para quem usa o vscode
+digite 
+nav>ul>li*3>a
+tecle enter
+
+Complementando procure sobre emmet no google que vai aprender bastante sobre esse plugin foda. 

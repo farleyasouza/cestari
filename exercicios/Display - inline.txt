@@ -1,0 +1,4 @@
+Falando de elementos com comportamento inline e block, para facilitar, aqui vai alguns exemplos de tags com comportantamentos diferentes:
+- Comportamento INLINE (não quebra linha quando inserido no HTML): <span>, <a>, <img>
+- Comportamento BLOCK (quebra linha quando inserido no HTML): <div>, <h1...h6>, <p>, <form>, <li>, <header>, <footer>, <section>
+Essas informações são boas para definir quando eu quiser utilizar o display: block ou inline e transformar algo de block para inline e vice-versa.

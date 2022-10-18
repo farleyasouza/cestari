@@ -1,0 +1,25 @@
+*{padding: 0; margin: 0; box-sizing: border-box; }
+
+a{text-decoration: none; color: black;}
+ul{list-style: none;}
+body{    
+    font-family: Arial, Helvetica, sans-serif;
+}
+html, body {height: 100%;}
+/*MENU PRINCIPAL*/
+nav{
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.699);    
+    display:inline-block
+}
+
+main{
+   background-color: rgba(47, 79, 79, 0.747);
+   float: right;
+   position: static;
+   right: 200px;  
+      
+}
+
