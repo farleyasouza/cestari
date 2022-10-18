@@ -14,6 +14,10 @@ nav{
     background-color: rgba(0, 0, 0, 0.699);    
     display:inline-block
 }
+.nav-ul-principal{
+    margin-top: 150px;
+    background-color: red;
+}
 
 main{
    background-color: rgba(47, 79, 79, 0.747);
